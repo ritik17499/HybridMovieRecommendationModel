@@ -1,0 +1,4 @@
+1.For each model we have one notebook.
+2.The data used for training is present in data folder
+3.Resources used were Databricks cluster and Google co-lab.
+4.For the latest model(lightGCN) we referenced published paper and code from https://github.com/gusye1234/LightGCN-PyTorch.
